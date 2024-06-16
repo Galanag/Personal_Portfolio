@@ -1,5 +1,5 @@
 # Personal_Portfolio
-This is responsive website design by html, css and js.
+This is responsive website designed by html, css and js.
 
 Check out screenshot of its some page. While I am expertise my skill in front end web developer, I prepared this for my personal portfolio. Check it is amazing combination.
 ![image](https://github.com/Galanag/Personal_Portfolio/assets/96224723/45f27fe9-d4be-4ff1-ad9b-abee46e9c261)
